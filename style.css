@@ -1,0 +1,15 @@
+#nav-bar{
+    position:absolute;
+    top:0;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    
+}
+
+
+@media (max-width:300px){
+    body{
+        background-color: aqua;
+    }
+}
